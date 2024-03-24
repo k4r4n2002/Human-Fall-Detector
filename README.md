@@ -58,7 +58,7 @@ Experiment with the fall-detection module using simple script
 ###### Run a Python Script
 
 ```
-python demo-fall-detection.py
+python test.py
 ```
 
 
