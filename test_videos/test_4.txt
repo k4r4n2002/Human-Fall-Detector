@@ -1,0 +1,5 @@
+There is FALL
+Confidence : 0.7888492345809937
+Angle : 61.13420459662648
+Keypoint_corr : {'left shoulder': [99.0, 114.0], 'left hip': [66.0, 149.0], 'right shoulder': [69.0, 119.0], 'right hip': [93.0, 150.0]}
+
